@@ -14,8 +14,13 @@ body {
 }
 
 h1 {
-    font-family: 'Spectral', serif;
+    font-family: 'Playfair Display', serif;
     font-size: 45px;
     color: #FFFFFF;
     cursor: pointer;
+}
+
+nav {
+  display: inline-block;
+  
 }
